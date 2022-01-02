@@ -25,8 +25,6 @@ def get_params_from_page(page=1):
     ('longitude', '-73.98'),
     ('mapLatitude', '40.71'),
     ('mapLongitude', '-73.99'),
-    ('maxSeats', '2'),
-    ('minSeats', '2'),
     ('page', str(page)),
     ('size', '400'),
     ('slotForDate', '2022-01-02T18:30:00.000Z'),
